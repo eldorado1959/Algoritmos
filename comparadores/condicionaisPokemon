@@ -1,0 +1,18 @@
+/// 20/03/2023
+
+let pokemon = "Bulbasauro"
+
+switch (pokemon){
+    case 'Bulbasauro':
+    console.log('Planta e Veneno')
+    break
+
+    case "EUA":
+    console.log("Vc e brasileiro")
+    break
+
+default:
+    console.log("nacionalidade nao encontrada")
+    break
+} 
+    
